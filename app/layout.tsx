@@ -2,6 +2,8 @@
 import { Toaster } from "react-hot-toast";
 import "./globals.css";
 import { AppProvider } from "@/contexts/AppContext";
+import { sequenceConfig } from "@/lib/config";
+import { SequenceConnect } from "@0xsequence/connect";
 
 export default function RootLayout({
   children,
@@ -10,12 +12,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <AppProvider>
-        <body>
-          <main>{children}</main>
-          <Toaster />
-        </body>
-      </AppProvider>
+      <SequenceConnect config={sequenceConfig}>
+        <AppProvider>
+          <body>
+            <main>{children}</main>
+            <Toaster />
+          </body>
+        </AppProvider>
+      </SequenceConnect>
     </html>
   );
 }
