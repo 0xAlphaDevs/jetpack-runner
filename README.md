@@ -21,7 +21,7 @@ Retro Style 2-D onchain runner game
 
 - [Deployed URL](https://jetpack-runner-etherlink.vercel.app/)
 - [Presentation](https://www.canva.com/design/DAGtDLmAf9Q/xl0yHzRV5qUTAMpqGmshzA/view)
-- [Demo Video]()
+- [Demo Video](https://www.youtube.com/watch?v=ZgQl0Sshc04)
 - [Etherlink Testnet Smart Contract : 0x7eBCE0478aB15d4f39de4bc7E6d6aC3812D85E3e](https://testnet.explorer.etherlink.com/address/0x7eBCE0478aB15d4f39de4bc7E6d6aC3812D85E3e?tab=contract)
 
 ## Sponsers Tech Stack
