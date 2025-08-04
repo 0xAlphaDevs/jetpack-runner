@@ -24,7 +24,8 @@ Retro Style 2-D onchain runner game
 
 ## Sponsers Tech Stack
 
--
+- **_Etherlink Testnet_** : We’ve leveraged Etherlink Testnet to store all player stats, assets, scores, and game logic fully onchain.
+- **_Sequence_** : We’ve integrated Sequence to offer seamless wallet creation, asset management, and onchain interaction for all players.
 
 ## App Demo Screenshots
 
