@@ -49,10 +49,6 @@ export default function JetpackRunnerLanding() {
               <Gamepad2 className="w-6 h-6 mr-2" />
               START PLAYING
             </Button>
-            {/* <Button size="lg" className="retro-button-secondary text-xl px-8 py-4">
-              <Trophy className="w-6 h-6 mr-2" />
-              VIEW LEADERBOARD
-            </Button> */}
           </div>
 
           {/* Game Preview Placeholder */}
