@@ -32,8 +32,29 @@ Retro Style 2-D onchain runner game
 
 ## App Demo Screenshots
 
-**_Landing Page_**
-![Landing Page](/public/landing-page.png)
+**_Connect Wallet_**
+![Landing Page](/public/connect-wallet.png)
+
+**_Player Connected_**
+![Landing Page](/public/player-connected.png)
+
+**_GamePlay_**
+![Landing Page](/public/gameplay.png)
+
+**_Game Over_**
+![Landing Page](/public/game-over.png)
+
+**_Game Mission Section_**
+![Landing Page](/public/game-mission-section.png)
+
+**_Reward Section_**
+![Landing Page](/public/reward-section.png)
+
+**_Shop Section_**
+![Landing Page](/public/shop-section.png)
+
+**_Leaderboard Section_**
+![Landing Page](/public/leaderboard-section.png)
 
 ## Future Vision
 
