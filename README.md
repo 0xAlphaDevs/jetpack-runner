@@ -4,9 +4,10 @@ Retro Style 2-D onchain runner game
 
 ### Features
 
-- **_Gameplay_** : Complete missions, climb the leaderboard, and explore City, Forest, and Mars built using Phaser.js HTML5 game mechanics.
-- **_Tokenomics_** : Jetpack Runner Token (JRT) powers the economy. Earn, buy, and trade fully onchain assets through it.
-- **_Onchain assets_** : Own everything you earn from coins collected to skins & jetpacks stored securely and transparently on the Etherlink Testnet.
+- **_Gameplay_** : Collect coins, complete missions, climb the leaderboard, and explore City, Forest, and Mars.
+- **_Tokenomics_** : Jetpack Runner Coins powers the economy. Earn, buy, and trade in-game assets using fully onchain tokenomics.
+- **_Onchain assets_** : Own everything you purchase from coins. Collect skins & jetpacks.
+  Stored securely and transparently on the Etherlink Testnet.
 
 ## Table of Contents
 
@@ -18,14 +19,16 @@ Retro Style 2-D onchain runner game
 
 ## Links
 
-- [Deployed URL]()
-- [Presentation]()
+- [Deployed URL](https://jetpack-runner-etherlink.vercel.app/)
+- [Presentation](https://www.canva.com/design/DAGtDLmAf9Q/xl0yHzRV5qUTAMpqGmshzA/view)
 - [Demo Video]()
+- [Etherlink Testnet Smart Contract : 0x7eBCE0478aB15d4f39de4bc7E6d6aC3812D85E3e](https://testnet.explorer.etherlink.com/address/0x7eBCE0478aB15d4f39de4bc7E6d6aC3812D85E3e?tab=contract)
 
 ## Sponsers Tech Stack
 
-- **_Etherlink Testnet_** : We’ve leveraged Etherlink Testnet to store all player stats, assets, scores, and game logic fully onchain.
-- **_Sequence_** : We’ve integrated Sequence to offer seamless wallet creation, asset management, and onchain interaction for all players.
+- Etherlink Testnet
+- Sequence
+- Phaser HTML5
 
 ## App Demo Screenshots
 
@@ -34,7 +37,8 @@ Retro Style 2-D onchain runner game
 
 ## Future Vision
 
--
+- We want to bring Jetpack Runner to Etherlink Mainnet, where all in-game assets become tradable as onchain NFTs, giving players true ownership of game assets.
+- We plan on to build fully onchain game mechanism powered by $JRT (Jetpack Runner Token). Players can earn this token in the game and use it to trade in-game assets as well as swap it on a DeX.
 
 ## Team
 
