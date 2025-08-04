@@ -1,11 +1,11 @@
-import { useOpenConnectModal } from "@0xsequence/connect";
+// import { useOpenConnectModal } from "@0xsequence/connect";
 
 export default function Play() {
-  const { setOpenConnectModal } = useOpenConnectModal();
+  // const { setOpenConnectModal } = useOpenConnectModal();
   return (
     <div className="text-white">
       Jetpack Runner
-      <button onClick={() => setOpenConnectModal(true)}>Connect</button>
+      {/* <button onClick={() => setOpenConnectModal(true)}>Connect</button> */}
     </div>
   );
 }
